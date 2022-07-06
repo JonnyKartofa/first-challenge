@@ -17,6 +17,7 @@ tr {
 table {
     width: 885px; 
     border-spacing: 0px;
+    box-shadow: 0px 10px 5px -9px rgba(0,0,0,0.48);
 }
 
 h3 {

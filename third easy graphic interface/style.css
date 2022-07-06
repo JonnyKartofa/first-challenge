@@ -1,0 +1,20 @@
+body {
+    background-color: #f1f4f8;
+    font-family: sans-serif;
+}
+
+table, tr, td {
+    border:0px none;
+    border-collapse: collapse;
+}
+
+tr {
+    background-color:white;
+    color:#6e7a87;
+    vertical-align: left;
+}
+
+table {
+    width: 885px; 
+    border-spacing: 0px;
+}
